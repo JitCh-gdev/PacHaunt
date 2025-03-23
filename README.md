@@ -1,7 +1,7 @@
 PacHaunt
 
 Project Overview
-PacEscape is a horror themed 3D maze escape game inspired by Pac-Man where you must run from a dangerous Pac-Man. He moves randomly when you're not around, chases you when you're in sight, and moves to random locations when unseen. You can hide in wooden cabinets to avoid him. The goal is to find the exit and escape before you get caught.
+PacHaunt is a horror themed 3D maze escape game inspired by Pac-Man where you must run from a dangerous Pac-Man. He moves randomly when you're not around, chases you when you're in sight, and moves to random locations when unseen. You can hide in wooden cabinets to avoid him. The goal is to find the exit and escape before you get caught.
 
 
 Features:
