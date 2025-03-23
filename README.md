@@ -5,15 +5,36 @@ PacEscape is a horror themed 3D maze escape game inspired by Pac-Man where you m
 
 
 Features:
- Smart Enemy AI  Pac-Man hunts you down but also moves randomly.
+ Smart Enemy AI:  Pac-Man hunts you down but also moves randomly.
 
- Hiding System  Hide in wooden cabinets to stay safe.
+ Hiding System:  Hide in wooden cabinets to stay safe.
 
- Minimap  Helps you navigate the maze.
+ Minimap : Helps you navigate the maze.
 
- Creepy Atmosphere  Dark maze with eerie sounds.
+ Creepy Atmosphere : Dark maze with eerie sounds.
 
 --------------------------------------------------------------------
+
+Download Instructions
+ GitHub Repository
+You can clone the project from GitHub:
+GitHub Repository: https://github.com/JitCh-gdev/PacHaunt
+
+However, since I uploaded all files using Git LFS, some packages (like Terrain Painter and some UI) might not work correctly when cloning due to Git LFS quota limitations.
+
+📁 Unity Packages (Recommended Fix)
+To avoid missing files, I’ve uploaded all Unity packages separately to Google Drive.
+👉 https://drive.google.com/drive/folders/1RYaHqLxwk1ndl3ZGtcNs-s9NmLHvNypD?usp=sharing
+
+I recommend downloading all the packages, but if you want the most important one, grab MainLevel.unitypackage to ensure the core level loads correctly.
+
+🎮 Fully Built Version
+If you just want to play the game without any setup, download the pre-built version from Itch.io:
+➡️ Itch.io : https://helifakx.itch.io/pac-haunt
+
+
+
+-------------------------------------------------------------------
 Team Details
 
 TEAM NAME:HexaByte
@@ -26,19 +47,19 @@ Level Design & Gameplay Mechanics: Ritam Kundu
 Controls
 WASD  Move
 
-Shift + WASD  Run (Consumes stamina)
+Shift + WASD : Run (Consumes stamina)
 
-Mouse  Look around
+Mouse:  Look around
 
-E  Hide inside wooden cabinets to avoid Pac-Man.
+E : Hide inside wooden cabinets to avoid Pac-Man.
 
 
 Additional Features for Testing:
 To quickly check the gameplay for project submission, two cheat buttons have been added:
 
-C  Reveal the maze solution on the minimap.
+C : Reveal the maze solution on the minimap.
 
-T  Instantly teleport to the maze exit.
+T : Instantly teleport to the maze exit.
 
 --------------------------------------------------------------------
 
@@ -75,12 +96,6 @@ Fonts:
 nosferotica
 ghoulish-fright
 --------------------------------------------------------------------
-Download Instruction:
 
-Here's the GitHub repository link for Cloning: https://github.com/JitCh-gdev/PacHaunt
-Since I have uploaded all files using Git LFS, some packages (like terrain painter and others) may not work smoothly when cloning the project.
-
-To experience the game without any setup issues, download the fully built version from Itch.io:
- https://helifakx.itch.io/pac-haunt
 
 
